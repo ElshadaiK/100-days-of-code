@@ -7,3 +7,11 @@
 **Thoughts:** I should have started this earlier.
 
 **Link to work:** [JSProjects](https://github.com/ElshadaiK/JSProjects)
+
+### Day 2: June 16, 2020
+
+**Today's Progress**: Finished the 15 Vanilla JavaScript projects.
+
+**Thoughts:** I'm ready to go to start JS frameworks.
+
+**Link to work:** [JSProjects](https://github.com/ElshadaiK/JSProjects)

@@ -9,3 +9,6 @@ Started with simple JS projects
 
 ### R1D2
 Finished 15 Vanilla JS projects
+
+### R1D3
+Resumed some Data Science studies
